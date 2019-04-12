@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.9
 
 MAINTAINER Ali Bengali <ali-beng-ali@users.noreply.github.com>
 
